@@ -23,7 +23,10 @@ Connect with me on these platforms:
 
 &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKarade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=DivyaKarade&style=flat-square)
 [![GitHub Follow](https://img.shields.io/github/followers/DivyaKarade?style=social)](https://github.com/DivyaKarade)
