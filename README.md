@@ -1,4 +1,39 @@
-### Hi there 👋
+### Divya Karade
+
+I'm an Aspiring AI Drug Researcher & I enjoy solving Drug Discovery problems with an emphasis in Structure-Based and Ligand-Based Drug Design. I transform complex data into understanding, using computational tools and ML algorithms and helping others to do the same.
+
+<a href="https://twitter.com/DivyaKarade">
+  <img align="left" alt="Divya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/divya-karade-49847655/">
+  <img align="left" alt="Divya's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/DivyaKarade">
+  <img align="left" alt="Divya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/>
+<br/>
+
+[![Divya's github stats](https://github-readme-stats.vercel.app/api?username=DivyaKarade&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=DivyaKarade&style=flat-square)
+[![GitHub Follow](https://img.shields.io/github/followers/DivyaKarade?style=social)](https://github.com/DivyaKarade)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DivyaKarade?label=Follow&style=social)](https://twitter.com/DivyaKarade)
+
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKarade)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/DivyaKarade/count.svg)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKarade" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKarade" />
+</a>
+
+
+Profile Visits : [![HitCount](http://hits.dwyl.com/DivyaKarade/DivyaKarade.svg)](http://hits.dwyl.com/DivyaKarade/DivyaKarade)
 
 <!--
 **DivyaKarade/DivyaKarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
