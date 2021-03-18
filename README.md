@@ -1,4 +1,4 @@
-### Divya Karade
+#### Divya Karade
 
 I'm an Aspiring AI Drug Researcher & I enjoy solving Drug Discovery problems with an emphasis in Structure-Based and Ligand-Based Drug Design. I transform complex data into understanding, using computational tools and ML algorithms and helping others to do the same.
 
@@ -14,7 +14,7 @@ I'm an Aspiring AI Drug Researcher & I enjoy solving Drug Discovery problems wit
 <br/>
 <br/>
 
-[![Divya's github stats](https://github-readme-stats.vercel.app/api?username=DivyaKarade&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Divya's github stats](https://github-readme-stats.vercel.app/api?username=DivyaKarade&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=DivyaKarade&style=flat-square)
 [![GitHub Follow](https://img.shields.io/github/followers/DivyaKarade?style=social)](https://github.com/DivyaKarade)
@@ -23,14 +23,6 @@ I'm an Aspiring AI Drug Researcher & I enjoy solving Drug Discovery problems wit
 &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKarade)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/DivyaKarade/count.svg)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKarade" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKarade" />
-</a>
 
 
 Profile Visits : [![HitCount](http://hits.dwyl.com/DivyaKarade/DivyaKarade.svg)](http://hits.dwyl.com/DivyaKarade/DivyaKarade)
