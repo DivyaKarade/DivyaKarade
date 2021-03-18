@@ -8,16 +8,6 @@ Connect with me on these platforms:
 <a href="https://twitter.com/DivyaKarade" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/tw.png" width="30"></a>
 <a href="https://github.com/DivyaKarade" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/gthb.png" width="30"></a>
 <a href="https://www.linkedin.com/in/divya-karade-49847655/" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/lnkdn.png" width="30"></a>
-
-
-<a href="https://twitter.com/DivyaKarade">
-  <img align="left" alt="Divya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/divya-karade-49847655/">
-  <img align="left" alt="Divya's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/DivyaKarade">
-  <img align="left" alt="Divya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
 <br/>
