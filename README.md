@@ -31,7 +31,6 @@ Connect with me on these platforms:
 ![](https://komarev.com/ghpvc/?username=DivyaKarade&style=flat-square)
 [![GitHub Follow](https://img.shields.io/github/followers/DivyaKarade?style=social)](https://github.com/DivyaKarade)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DivyaKarade?label=Follow&style=social)](https://twitter.com/DivyaKarade)
-#Profile Visits : [![HitCount](http://hits.dwyl.com/DivyaKarade/DivyaKarade.svg)](http://hits.dwyl.com/DivyaKarade/DivyaKarade)
 
 <!--
 **DivyaKarade/DivyaKarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
