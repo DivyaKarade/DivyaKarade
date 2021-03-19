@@ -8,6 +8,7 @@ Connect with me on these platforms:
 <a href="https://twitter.com/DivyaKarade" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/tw.png" width="30"></a>
 <a href="https://github.com/DivyaKarade" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/gthb.png" width="30"></a>
 <a href="https://www.linkedin.com/in/divya-karade-49847655/" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/lnkdn.png" width="30"></a>
+<a href="https://www.youtube.com/channel/UCTAaEfyMnykrddAnzNSloDA" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/ytb.png" width="30"></a>
 </a>
 <br/>
 <br/>
