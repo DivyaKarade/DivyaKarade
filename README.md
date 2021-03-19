@@ -1,6 +1,6 @@
 ## Divya Karade
 
-I'm an AI Researcher in Drug Discovery & I enjoy solving problems with an emphasis in Structure-Based and Ligand-Based Drug Design. I transform complex data into understanding, using computational tools, ML algorithms and by developing web-app and also helping others to do the same.
+I'm an AI Researcher in Drug Discovery & I enjoy solving problems with an emphasis on Structure-Based and Ligand-Based Drug Design. I transform complex data into understanding, using computational tools, ML algorithms, by developing web-app and also helping others to do the same.
 
 
 Connect with me on these platforms:
