@@ -31,11 +31,14 @@ Connect with me on these platforms:
 [![Twitter Follow](https://img.shields.io/twitter/follow/DivyaKarade?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/DivyaKarade)
 
 <head>
+  <title>Visitor counter</title>
+</head>
 <body>
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7831843&style=0006&nbdigits=5&type=page&initCount=500" title="Free Counter" Alt="web counter"   border="0" /></a>     
-<body>
+<img src="https://hitwebcounter.com/counter/counter.php?page=7831843&style=0006&nbdigits=5&type=page&initCount=500" title="Free Counter" Alt="web counter"   border="0" /></a>   
+  
+</body>
 <!--
 **DivyaKarade/DivyaKarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
