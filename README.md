@@ -29,16 +29,8 @@ Connect with me on these platforms:
 [![GitHub Follow](https://img.shields.io/github/followers/DivyaKarade?style=social&label=Follow%20Me%20on%20GitHub)](https://github.com/DivyaKarade)
 [![GitHub User's stars](https://img.shields.io/github/stars/DivyaKarade?label=Star%20Gazers&style=social)](https://github.com/DivyaKarade)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DivyaKarade?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/DivyaKarade)
+![](https://komarev.com/ghpvc/?username=https://sars-covid-app.herokuapp.com/&style=flat-square&color=green)(https://sars-covid-app.herokuapp.com/)
 
-<head>
-  <title>Visitor counter</title>
-</head>
-<body>
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7831843&style=0006&nbdigits=5&type=page&initCount=500" title="Free Counter" Alt="web counter"   border="0" /></a>   
-  
-</body>
 <!--
 **DivyaKarade/DivyaKarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
