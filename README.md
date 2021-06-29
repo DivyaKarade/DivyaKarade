@@ -30,9 +30,6 @@ Connect with me on these platforms:
 [![GitHub User's stars](https://img.shields.io/github/stars/DivyaKarade?label=Star%20Gazers&style=social)](https://github.com/DivyaKarade)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DivyaKarade?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/DivyaKarade)
 
- <a href='https://www.versicherungen.at/hausversicherung-rechner/'>Hausversicherung AT</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=1a8d152287ca5cb89aef2c34d14c831173c2a793'></script>
-<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/842784/t/7"></script>
-
 <!--
 **DivyaKarade/DivyaKarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
