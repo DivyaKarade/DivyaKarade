@@ -25,7 +25,7 @@ Connect with me on these platforms:
 <br/>
 
 [![Portfolio-DivyaKarade](https://img.shields.io/badge/Portfolio-DivyaKarade-blue.svg?logo=Portfolio-DivyaKarade)](https://divyakarade.github.io/index.html)
-![](https://komarev.com/ghpvc/?username=DivyaKarade&style=flat-square)
+![](https://komarev.com/ghpvc/?username=DivyaKarade&style=flat-square&color=green)
 [![GitHub Follow](https://img.shields.io/github/followers/DivyaKarade?style=social&label=Follow%20Me%20on%20GitHub)](https://github.com/DivyaKarade)
 [![GitHub User's stars](https://img.shields.io/github/stars/DivyaKarade?label=Star%20Gazers&style=social)](https://github.com/DivyaKarade)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DivyaKarade?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/DivyaKarade)
