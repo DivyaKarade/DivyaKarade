@@ -31,6 +31,8 @@ Connect with me on these platforms:
 [![Twitter Follow](https://img.shields.io/twitter/follow/DivyaKarade?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/DivyaKarade)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTAaEfyMnykrddAnzNSloDA)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTAaEfyMnykrddAnzNSloDA?style=social)
+[<img src="https://img.shields.io/badge/Google_Scholar-lightgrey?style=flat&logo=Google-Scholar" alt="Divya Karade"/>](https://scholar.google.com/citations?user=Sm0aFaMAAAAJ&hl=en)
+[<img src="https://img.shields.io/badge/ORCiD-grey?style=flat&logo=ORCID"/>](https://orcid.org/0000-0002-0700-8350)
 
 
 <!--
