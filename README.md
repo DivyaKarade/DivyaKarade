@@ -27,7 +27,7 @@ Connect with me on these platforms:
 [![Portfolio-DivyaKarade](https://img.shields.io/badge/Portfolio-DivyaKarade-blue.svg?logo=Portfolio-DivyaKarade)](https://divyakarade.github.io/index.html)
 [<img src="https://img.shields.io/badge/Google_Scholar-lightgrey?style=flat&logo=Google-Scholar" alt="Divya Karade"/>](https://scholar.google.com/citations?user=Sm0aFaMAAAAJ&hl=en)
 [<img src="https://img.shields.io/badge/ORCiD-grey?style=flat&logo=ORCID"/>](https://orcid.org/0000-0002-0700-8350)
-![](https://komarev.com/ghpvc/?username=DivyaKarade&style=flat-square&color=pink)
+![](https://komarev.com/ghpvc/?username=DivyaKarade&style=flat-square&color=blue)
 [![GitHub Follow](https://img.shields.io/github/followers/DivyaKarade?style=social&label=Follow%20Me%20on%20GitHub)](https://github.com/DivyaKarade)
 [![GitHub User's stars](https://img.shields.io/github/stars/DivyaKarade?label=Stars&style=social)](https://github.com/DivyaKarade)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DivyaKarade?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/DivyaKarade)
