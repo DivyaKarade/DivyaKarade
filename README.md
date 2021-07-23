@@ -34,8 +34,6 @@ Connect with me on these platforms:
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTAaEfyMnykrddAnzNSloDA)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTAaEfyMnykrddAnzNSloDA?style=social)
 
-
-
 <!--
 **DivyaKarade/DivyaKarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
