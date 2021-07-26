@@ -31,8 +31,8 @@ Connect with me on these platforms:
 [![GitHub Follow](https://img.shields.io/github/followers/DivyaKarade?style=social&label=Follow%20Me%20on%20GitHub)](https://github.com/DivyaKarade)
 [![GitHub User's stars](https://img.shields.io/github/stars/DivyaKarade?label=Stars&style=social)](https://github.com/DivyaKarade)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DivyaKarade?label=Follow%20Me%20on%20Twitter&style=social)](https://twitter.com/DivyaKarade)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTAaEfyMnykrddAnzNSloDA)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTAaEfyMnykrddAnzNSloDA?style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTAaEfyMnykrddAnzNSloDA)](https://www.youtube.com/channel/UCTAaEfyMnykrddAnzNSloDA/videos)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTAaEfyMnykrddAnzNSloDA?style=social)](https://www.youtube.com/channel/UCTAaEfyMnykrddAnzNSloDA/about)
 
 <!--
 **DivyaKarade/DivyaKarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
